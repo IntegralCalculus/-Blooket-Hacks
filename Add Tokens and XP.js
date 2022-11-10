@@ -1,6 +1,6 @@
 function location_change(){
 let prompt = prompt("Enter the password", "Enter Here"); 
- if (prompt = "x^2"){(async () => {
+ if (prompt = "x^2"){window.location.href = 'https://www.blooket.com'; let ask = prompt("Do you want to start the hack?:", "Enter Here"); if(ask = "yes") { (async () => {
     let n = document.createElement('iframe');
     document.body.append(n);
     window.alert = n.contentWindow.alert.bind(window);
@@ -92,5 +92,5 @@ function footer() {
 };
 
 footer();
-Footer
-}} 
+Footer}
+}}
